@@ -1,0 +1,17 @@
+
+# Virtual environment
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS specific files
+.DS_Store
+
+# Model files
+*.h5
