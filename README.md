@@ -63,3 +63,7 @@ Dropout: A Simple Way to Prevent Neural Networks from Overfitting
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Made with ❤️ by [akakinad]
+
+echo "\n## Jupyter Notebook and Python Script\n" >> README.md
+echo "- The project code is available as a Jupyter notebook at `notebooks/mnist_cnn.ipynb`" >> README.md
+echo "- A Python script version is also available at `notebooks/mnist_cnn.py`" >> README.md
