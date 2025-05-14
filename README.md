@@ -1,5 +1,7 @@
 # MNIST Digit Classifier with CNN
 
+![image alt](https://github.com/Akakinad/mnist_cnn_classifier/blob/main/Screenshot%202025-05-14%20at%2008.25.45.png?raw=true)
+
 This project implements a Convolutional Neural Network (CNN) in TensorFlow/Keras to classify handwritten digits from the MNIST dataset.
 
 ## 🔍 Project Overview
